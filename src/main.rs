@@ -1,6 +1,0 @@
-mod structures;
-
-
-fn main() {
-    
-}
