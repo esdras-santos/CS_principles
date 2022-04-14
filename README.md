@@ -1,1 +1,1 @@
-# Coputer Science principles
+# Computer Science principles
